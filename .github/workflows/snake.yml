@@ -2,6 +2,10 @@ name: Generate contribution snake
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
   schedule:
     - cron: '19 5 * * *'
 
@@ -19,7 +23,7 @@ jobs:
           github_user_name: Byl0ke
           outputs: |
             dist/github-snake.svg?color_snake=%238e65ff&color_dots=%23edf0fa,%23d8c5ff,%23ac89f5,%237861df,%233ad0e9
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2340d4ed&color_dots=%23101527,%23302457,%23513e8f,%238c67df,%2338bbdd
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2340d4ed&color_dots=%23101527,%23302457,%23513e8f,%2338bbdd
 
       - name: Publish generated animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
