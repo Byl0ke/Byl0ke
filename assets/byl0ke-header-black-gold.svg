@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
+<title id="title">BYL0KE — Software Developer &amp; Digital Entrepreneur</title>
+<desc id="desc">Executive black-and-gold portfolio header featuring a geometric monogram, understated animated gold traces and a refined technical grid.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#08090A"/>
+    <stop offset="54%" stop-color="#111315"/>
+    <stop offset="100%" stop-color="#070708"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#98732B"/>
+    <stop offset="48%" stop-color="#F2D58E"/>
+    <stop offset="73%" stop-color="#D5AD54"/>
+    <stop offset="100%" stop-color="#8B6624"/>
+  </linearGradient>
+  <linearGradient id="faintGold" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#B9954A" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#F2D58E" stop-opacity=".7"/>
+    <stop offset="100%" stop-color="#B9954A" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="micro" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0 H0 V42" fill="none" stroke="#B99147" stroke-width=".7" opacity=".11"/>
+  </pattern>
+  <clipPath id="clip"><rect width="1400" height="440" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1400" height="440" fill="url(#bg)"/>
+  <rect width="1400" height="440" fill="url(#micro)" opacity=".8"/>
+  <rect x="22" y="22" width="1356" height="396" rx="5" fill="none" stroke="#99753A" stroke-opacity=".36" stroke-width="1"/>
+  <path d="M46 23 H235 M46 23 V74 M1354 23 H1165 M1354 23 V74 M46 417 H235 M46 417 V366 M1354 417 H1165 M1354 417 V366" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <path d="M812 55 V382" stroke="#C49C50" stroke-opacity=".23"/>
+  <path d="M813 220 H1400" stroke="#C49C50" stroke-opacity=".12" stroke-dasharray="4 14"/>
+  <g transform="translate(89 75)">
+    <rect x="0" y="-15" width="8" height="8" fill="#E5C270" transform="rotate(45 4 -11)"/>
+    <text x="22" y="-5" fill="#D5BD80" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4" font-weight="600">EXECUTIVE DIGITAL PORTFOLIO</text>
+    <text x="-3" y="102" fill="#F5F2E8" font-family="Arial, Helvetica, sans-serif" font-size="93" letter-spacing="11" font-weight="700">BYL0KE</text>
+    <path d="M0 122 H565" stroke="#5C503C" stroke-width="1"/>
+    <path d="M0 122 H190" stroke="url(#gold)" stroke-width="3" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="15 550;190 375;15 550" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <text x="0" y="175" fill="url(#gold)" font-family="Arial, Helvetica, sans-serif" font-size="27" letter-spacing="2" font-weight="700">SOFTWARE DEVELOPER</text>
+    <text x="0" y="212" fill="#F2E6C7" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1.5" font-weight="400">&amp; DIGITAL ENTREPRENEUR</text>
+    <text x="0" y="261" fill="#ACADAA" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing=".4">Desarrollo web  /  Sistemas FiveM  /  Productos digitales</text>
+    <text x="0" y="297" fill="#A3987F" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">ESTRATEGIA  ·  TECNOLOGÍA  ·  IDENTIDAD</text>
+  </g>
+  <g transform="translate(1090 208)">
+    <circle r="137" fill="none" stroke="#B18B47" stroke-opacity=".32" stroke-width="1"/>
+    <circle r="110" fill="#191816" stroke="#B18B47" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle r="90" fill="none" stroke="#E2BF77" stroke-opacity=".19" stroke-width="1" stroke-dasharray="2 8"/>
+    <g>
+      <circle r="121" fill="none" stroke="url(#gold)" stroke-width="2" stroke-dasharray="76 690" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="99" fill="none" stroke="url(#gold)" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="36 588">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <path d="M0 -82 L78 0 L0 82 L-78 0 Z" fill="none" stroke="url(#gold)" stroke-width="1.8"/>
+    <path d="M0 -65 L62 0 L0 65 L-62 0 Z" fill="none" stroke="#9B793E" stroke-opacity=".5" stroke-width="1"/>
+    <text text-anchor="middle" x="0" y="15" fill="#F6E4B5" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="45" letter-spacing="1">B.</text>
+    <circle cx="-79" cy="-96" r="4" fill="#F2D58E"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="115" cy="65" r="3" fill="#C59F56"/>
+  </g>
+  <rect x="46" y="390" width="1308" height="1" fill="url(#faintGold)"/>
+  <text x="89" y="409" fill="#8F8C85" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">INDEPENDENT DIGITAL PROJECTS</text>
+  <text x="1310" y="409" fill="#C3A66C" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">EST. ONLINE</text>
+</g>
+</svg>
