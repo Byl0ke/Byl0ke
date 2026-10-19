@@ -1,196 +1,262 @@
 <!--
-  BYL0KE · GitHub Profile README
-  Repositorio público: https://github.com/Byl0ke/Byl0ke
-  Recursos: assets/byl0ke-header.svg y .github/workflows/snake.yml
-  Nota: GitHub no ejecuta JavaScript ni CSS libre dentro de archivos README.
-  Las animaciones se realizan mediante SVG e imágenes generadas externamente.
+  BYL0KE · GitHub Profile README · Black & Gold Edition
+  Carpeta de assets incluida: ./assets/byl0ke-header-black-gold.svg
+  Estilo: profesional, serio, premium, elegante.
 -->
 
 <div align="center">
 
-  <img src="./assets/byl0ke-header.svg" width="100%" alt="BYL0KE — Developer, Builder, Creator" />
+<img src="./assets/byl0ke-header-black-gold.svg" width="100%" alt="BYL0KE — Senior Developer & Digital Builder" />
 
-  <br/>
+<br/>
 
-  <a href="https://github.com/Byl0ke">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=650&amp;size=19&amp;duration=2600&amp;pause=1250&amp;color=9B83F9&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=48&amp;lines=Desarrollo+web+y+aplicaciones+digitales;FiveM+%7C+Lua+%7C+ESX+%7C+QBCore;Automatizaci%C3%B3n+y+herramientas+con+IA;E-commerce%2C+UI%2FUX+y+marcas+digitales;Dise%C3%B1o%2C+desarrollo+y+mejora+continua" alt="Especialidades de Byl0ke en animación" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1100&color=C9982F&center=true&vCenter=true&width=1000&lines=Desarrollo+web+profesional+con+est%C3%A9tica+premium;Sistemas+FiveM+%E2%80%A2+Interfaces+%E2%80%A2+Tiendas+%E2%80%A2+Automatizaciones;Dise%C3%B1o+proyectos+digitales+serios%2C+elegantes+y+funcionales;Construyendo+marcas%2C+webs+y+soluciones+con+presencia" alt="Typing animation" />
 
-  <p>
-    <a href="https://github.com/Byl0ke?tab=repositories"><img src="https://img.shields.io/badge/VER%20PROYECTOS-171b30?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar repositorios" /></a>
-    <a href="https://www.youtube.com/@Byl0ke"><img src="https://img.shields.io/badge/YOUTUBE-F21E50?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Mi canal de YouTube" /></a>
-    <a href="https://visionv-studios.tebex.io"><img src="https://img.shields.io/badge/VISIONV%20STUDIOS-7454D8?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="VisionV Studios" /></a>
-  </p>
+<br/><br/>
 
-  <p>
-    <img src="https://img.shields.io/badge/BASE-Espa%C3%B1a-141d32?style=flat-square&amp;logo=googlemaps&amp;logoColor=9b83f9" alt="España" />
-    <img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Digital-141d32?style=flat-square&amp;logo=codersrank&amp;logoColor=40d4ed" alt="Software y productos digitales" />
-    <img src="https://komarev.com/ghpvc/?username=Byl0ke&amp;style=flat-square&amp;color=7454d8&amp;label=Profile%20views" alt="Visitas al perfil" />
-  </p>
+<a href="#-sobre-mí">Sobre mí</a> •
+<a href="#-qué-hago">Qué hago</a> •
+<a href="#-mis-webs-y-proyectos">Mis webs y proyectos</a> •
+<a href="#-servicios-y-funciones">Servicios</a> •
+<a href="#-stack-y-herramientas">Stack</a> •
+<a href="#-estadísticas-y-actividad">Estadísticas</a> •
+<a href="#-contacto-y-presencia">Contacto</a>
 
-  <sub><a href="#about">Sobre mí</a> &nbsp;·&nbsp; <a href="#services">Qué hago</a> &nbsp;·&nbsp; <a href="#projects">Proyectos</a> &nbsp;·&nbsp; <a href="#stack">Tecnologías</a> &nbsp;·&nbsp; <a href="#activity">Actividad</a> &nbsp;·&nbsp; <a href="#contact">Contacto</a></sub>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ESTILO-Negro_%26_Dorado-c9982f?style=for-the-badge&labelColor=050505" alt="Estilo negro y dorado" />
+<img src="https://img.shields.io/badge/PERFIL-Programador_profesional-e2c56b?style=for-the-badge&labelColor=050505" alt="Programador profesional" />
+<img src="https://img.shields.io/badge/FOCUS-Webs_%7C_FiveM_%7C_Automation-b8892b?style=for-the-badge&labelColor=050505" alt="Focus" />
 
 </div>
 
 ---
 
-<a id="about"></a>
-## 01 / Sobre mí
+# ✨ Sobre mí
 
-### Hola, soy Byl0ke. Creo, diseño y desarrollo proyectos digitales.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760697-4d1f0f50-6d2e-4d8b-bf76-0d0d61781d98.gif" width="260" alt="Developer animation" />
 
-Me dedico a transformar ideas en **sitios web, aplicaciones, sistemas personalizados e identidades digitales**. Disfruto tanto de la parte técnica —lógica, integración y rendimiento— como de los detalles que hacen que una experiencia se sienta profesional: **diseño, animación, claridad y facilidad de uso**.
+Soy **BYL0KE**, un creador digital centrado en el desarrollo de **webs profesionales**, **sistemas para FiveM**, **interfaces premium**, **automatizaciones** y proyectos online con una presencia visual seria y cuidada.
 
-He trabajado en proyectos relacionados con **FiveM, servicios para comunidades, comercio electrónico, herramientas para negocios y experiencias online**. Desarrollo iniciativas propias y sigo ampliando mis conocimientos en automatización e inteligencia artificial.
+Mi objetivo no es solo hacer algo que funcione, sino construir proyectos que transmitan:
 
-```text
-BYL0KE / HOW I WORK
-> idea        → entender el problema
-> design      → definir una experiencia clara
-> development → construir funciones útiles
-> iterate     → probar, corregir y mejorar
+- **profesionalidad**
+- **calidad visual**
+- **orden y presencia de marca**
+- **funciones útiles y bien pensadas**
+- **acabado premium listo para enseñar o lanzar**
+
+### Perfil profesional
+- 💻 Desarrollo **web y proyectos digitales**
+- 🎮 Creación de **sistemas, interfaces y recursos para FiveM**
+- 🎨 Diseño de **branding, banners, identidad visual y presentación premium**
+- 🤖 Implementación de **automatizaciones y soluciones inteligentes**
+- 🧠 Mentalidad de **constructor serio**, enfocada en mejorar, escalar y profesionalizar cada proyecto
+
+<br clear="right"/>
+
+---
+
+# 🧩 Qué hago
+
+<div align="center">
+
+| Área | En qué trabajo |
+|---|---|
+| 🌐 **Web Development** | webs corporativas, landing pages, portfolios, tiendas, páginas de marca y experiencias digitales limpias |
+| 🛠️ **Sistemas personalizados** | paneles, secciones dinámicas, formularios, catálogos, bloques interactivos y estructuras escalables |
+| 🎮 **FiveM Development** | scripts, sistemas RP, interfaces, branding de servidores, tiendas Tebex y recursos personalizados |
+| ✨ **Animaciones & decoración** | hero sections, banners, cabeceras SVG, detalles visuales, separadores premium y composición elegante |
+| 🤖 **Automation** | chatbots, sistemas de registro, flujos de ayuda, organización y automatización de procesos |
+| 🏛️ **Brand Presentation** | identidad visual, tono profesional, presencia online y aspecto más “señor / premium” |
+
+</div>
+
+> **Filosofía de trabajo:** menos ruido, más clase; menos improvisación, más presencia.
+
+---
+
+# 🌍 Mis webs y proyectos
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ VisionV Studios</h3>
+      <p>Tienda orientada a <strong>scripts y assets para FiveM</strong>, con enfoque técnico y presentación premium.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-Activo-c9982f?style=flat-square&labelColor=050505" alt="VisionV activo"/>
+        <img src="https://img.shields.io/badge/Tipo-Tienda-e2c56b?style=flat-square&labelColor=050505" alt="VisionV tienda"/>
+      </p>
+      <p>
+        <a href="https://visionv-studios.tebex.io"><img src="https://img.shields.io/badge/Ver_web-111111?style=for-the-badge&logo=googlechrome&logoColor=C9982F" alt="Ver VisionV" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏍️ TNT Racing</h3>
+      <p>Proyecto enfocado en una presencia online más limpia y profesional para un taller con servicios y tienda.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-Activo-c9982f?style=flat-square&labelColor=050505" alt="TNT activo"/>
+        <img src="https://img.shields.io/badge/Tipo-Web_de_negocio-e2c56b?style=flat-square&labelColor=050505" alt="TNT business web"/>
+      </p>
+      <p>
+        <a href="https://www.tntracing.es"><img src="https://img.shields.io/badge/Ver_web-111111?style=for-the-badge&logo=googlechrome&logoColor=C9982F" alt="Ver TNT Racing" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟣 Synkope Network</h3>
+      <p>Marca digital en evolución, orientada a <strong>FiveM, bots, desarrollo, branding y soluciones online</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-En_desarrollo-b8892b?style=flat-square&labelColor=050505" alt="Synkope en desarrollo"/>
+        <img src="https://img.shields.io/badge/Tipo-Marca_%26_servicios-e2c56b?style=flat-square&labelColor=050505" alt="Synkope marca"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Lanzamiento-Próximamente-111111?style=for-the-badge&logo=rocket&logoColor=C9982F" alt="Próximamente" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖤 Alantis / Atlantis Projects</h3>
+      <p>Conceptos de marca y proyectos premium relacionados con automoción, deporte, lujo y presencia visual fuerte.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-En_progreso-b8892b?style=flat-square&labelColor=050505" alt="Alantis en progreso"/>
+        <img src="https://img.shields.io/badge/Tipo-Concepto_premium-e2c56b?style=flat-square&labelColor=050505" alt="Alantis premium concept"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Proyecto-Privado-111111?style=for-the-badge&logo=abstract&logoColor=C9982F" alt="Proyecto privado" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### Lo que busco en mis webs y proyectos
+- una estética **más seria y elegante**
+- más **animaciones limpias y profesionales**
+- mejor **presencia de marca**
+- mejores **funciones y estructura**
+- una imagen **más premium y madura**
+
+---
+
+# ⚙️ Servicios y funciones
+
+### Cosas que puedo añadir a un proyecto
+- ✅ Hero sections con **presentación animada**
+- ✅ **Cabeceras y banners premium**
+- ✅ Estructura de **landing pages profesionales**
+- ✅ Tiendas con **bloques de producto** y secciones de venta
+- ✅ **Formularios**, contacto rápido y captación de clientes
+- ✅ **Galleries**, sliders y secciones de showcase
+- ✅ **Dashboards**, paneles o ideas de administración
+- ✅ **Chatbots**, automatizaciones y flujos útiles
+- ✅ **Sistemas de registros y seguimiento**
+- ✅ Decoraciones visuales con **negro, dorado, divisores y detalles premium**
+- ✅ Diseño responsive para **móvil y escritorio**
+- ✅ Mejoras de imagen para que el proyecto parezca **más profesional y sólido**
+
+### Cómo suelo trabajar
+```txt
+1. Idea / objetivo
+2. Estructura y secciones
+3. Diseño visual y presencia
+4. Funciones e interactividad
+5. Mejora, limpieza y versión premium
 ```
 
-<a id="services"></a>
-## 02 / Áreas en las que trabajo
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Desarrollo web y aplicaciones</h3>
-      <p>Landing pages, páginas corporativas, paneles, catálogos, tiendas online y experiencias responsive con una interfaz cuidada.</p>
-      <sub><code>Frontend</code> · <code>UI/UX</code> · <code>E-commerce</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Sistemas para FiveM</h3>
-      <p>Scripts, interfaces NUI, HUD, recursos personalizados, configuración, integración y optimización de servidores RP.</p>
-      <sub><code>Lua</code> · <code>ESX</code> · <code>QBCore</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🤖 Automatización y herramientas con IA</h3>
-      <p>Exploración y desarrollo de asistentes, flujos de trabajo, bots y soluciones para simplificar tareas repetitivas.</p>
-      <sub><code>Integraciones</code> · <code>AI tools</code> · <code>Discord</code></sub>
-    </td>
-    <td valign="top">
-      <h3>🎨 Diseño y creación de contenido</h3>
-      <p>Branding digital, interfaces visuales, recursos gráficos y contenido audiovisual para proyectos y comunidades.</p>
-      <sub><code>Branding</code> · <code>Creative</code> · <code>Content</code></sub>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>＋ Ver otras soluciones que me interesan</b></summary>
-  <br/>
-  <p>Herramientas para talleres y empresas, reservas y gestión de clientes, tiendas de productos digitales, portales de servicios, dashboards, comunidades y soluciones conectadas a plataformas externas.</p>
-</details>
-
-<a id="projects"></a>
-## 03 / Proyectos que estoy construyendo
-
-> Mi trabajo combina proyectos personales, marcas digitales y desarrollos privados. Los siguientes ejemplos muestran sus objetivos, no cifras comerciales ni lanzamientos que no se hayan anunciado.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Synkope Network</h3>
-      <p>Soluciones digitales para comunidades y servidores: desarrollo FiveM, sistemas a medida, servicios web, bots y herramientas de soporte.</p>
-      <p><img src="https://img.shields.io/badge/FiveM-704EBC?style=flat-square" alt="FiveM" /> <img src="https://img.shields.io/badge/Web-17395A?style=flat-square" alt="Web" /> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square" alt="Discord" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏁 TNT Racing</h3>
-      <p>Ecosistema digital para un taller: sitio web, catálogo de recambios y accesorios, funciones de pedido y experiencia orientada al cliente.</p>
-      <p><img src="https://img.shields.io/badge/Automotive-704EBC?style=flat-square" alt="Automoción" /> <img src="https://img.shields.io/badge/E--commerce-17395A?style=flat-square" alt="Tienda online" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚘 Alantis Motors Luxury</h3>
-      <p>Concepto digital enfocado en automoción premium: catálogo visual, personalización, comunicación con clientes y operaciones de negocio.</p>
-      <p><img src="https://img.shields.io/badge/Luxury%20Auto-704EBC?style=flat-square" alt="Automóviles de lujo" /> <img src="https://img.shields.io/badge/UI%2FUX-17395A?style=flat-square" alt="UI/UX" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💜 VisionV Studios</h3>
-      <p>Iniciativa de desarrollo creativo especializada en interfaces, scripts y recursos personalizados para el ecosistema FiveM.</p>
-      <p><img src="https://img.shields.io/badge/Lua-704EBC?style=flat-square" alt="Lua" /> <img src="https://img.shields.io/badge/NUI-17395A?style=flat-square" alt="NUI" /> <img src="https://img.shields.io/badge/ESX%20%2F%20QBCore-304D75?style=flat-square" alt="ESX y QBCore" /></p>
-    </td>
-  </tr>
-</table>
+# 🛠️ Stack y herramientas
 
 <div align="center">
-  <a href="https://github.com/Byl0ke?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR%20MI%20GITHUB-1B2340?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar repositorios públicos" /></a>
-  <br/>
-  <sub>Algunos repositorios son privados y por eso no aparecen en el listado público.</sub>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,lua,python,mysql,git,github,vscode,figma,photoshop,illustrator&theme=dark" alt="Stack tecnológico" />
+
 </div>
 
-<a id="stack"></a>
-## 04 / Tecnologías y herramientas
+### Tecnologías y herramientas principales
+- **Frontend:** HTML, CSS, JavaScript
+- **Lógica / backend:** Node.js, estructuras de datos y flujos personalizados
+- **FiveM:** Lua, interfaces, recursos y sistemas para RP
+- **Diseño:** Figma, Photoshop, Illustrator
+- **Organización:** GitHub, control de versiones y evolución continua
+
+---
+
+# 📊 Estadísticas y actividad
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,mysql,git,github,vscode,ps&amp;theme=dark&amp;perline=10" alt="Lua, JavaScript, HTML, CSS, Node.js, MySQL, Git, GitHub, Visual Studio Code y Photoshop" />
 
-  <br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Byl0ke&show_icons=true&theme=transparent&hide_border=true&title_color=C9982F&icon_color=E2C56B&text_color=F3E7C2&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byl0ke&layout=compact&theme=transparent&hide_border=true&title_color=C9982F&text_color=F3E7C2" alt="Top languages" />
 
-  <img src="https://img.shields.io/badge/FiveM-Development-8360DB?style=flat-square&amp;labelColor=141a2d" alt="Desarrollo FiveM" />
-  <img src="https://img.shields.io/badge/QBCore%20%2F%20ESX-Frameworks-40CEE4?style=flat-square&amp;labelColor=141a2d" alt="QBCore y ESX" />
-  <img src="https://img.shields.io/badge/UI%20%2F%20UX-Design-C089FA?style=flat-square&amp;labelColor=141a2d" alt="Diseño de interfaces" />
-  <img src="https://img.shields.io/badge/Automations-Workflows-54BECC?style=flat-square&amp;labelColor=141a2d" alt="Automatización" />
-</div>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Byl0ke&theme=transparent&hide_border=true&ring=C9982F&fire=E2C56B&currStreakLabel=C9982F&sideLabels=F3E7C2&currStreakNum=F3E7C2&sideNums=F3E7C2&dates=CDBE95" alt="GitHub streak" />
 
-<a id="activity"></a>
-## 05 / GitHub en tiempo real
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byl0ke&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1325&amp;title_color=A48AFF&amp;icon_color=42D0E9&amp;text_color=E4E9F6&amp;include_all_commits=true" width="53%" alt="Estadísticas públicas de Byl0ke en GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byl0ke&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1325&amp;title_color=A48AFF&amp;text_color=E4E9F6" width="42%" alt="Lenguajes de los repositorios públicos" />
 </div>
 
 <details>
-  <summary><b>📈 Abrir gráfico de actividad</b></summary>
+  <summary><strong>📈 Ver gráfica de actividad</strong></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Byl0ke&amp;bg_color=0D1325&amp;color=B8A5FF&amp;line=40D4ED&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Historial de actividad de GitHub" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Byl0ke&bg_color=050505&color=F3E7C2&line=C9982F&point=E2C56B&area=true&hide_border=true" width="100%" alt="Gráfica de actividad" />
   </div>
 </details>
 
-### Contribuciones en movimiento
+### Animación de contribuciones
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Byl0ke/Byl0ke/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Byl0ke/Byl0ke/output/github-snake.svg" />
-    <img alt="Animación de contribuciones de GitHub con una serpiente" src="https://raw.githubusercontent.com/Byl0ke/Byl0ke/output/github-snake.svg" width="95%" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Byl0ke/Byl0ke/output/github-snake-dark.svg" />
   </picture>
 </div>
 
-<sub>La animación se actualiza a través de un workflow de GitHub Actions. Es necesario ejecutar la acción por primera vez y que esta pueda publicar en la rama <code>output</code>.</sub>
-
 ---
 
-<a id="contact"></a>
-## 06 / Contacto y colaboración
+# 🤝 Contacto y presencia
 
 <div align="center">
 
-  **¿Tienes una idea, un servidor o un negocio que necesite una solución digital?**
+<a href="https://github.com/Byl0ke">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E2C56B" alt="GitHub" />
+</a>
+<a href="https://www.youtube.com/@Byl0ke">
+  <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=C9982F" alt="YouTube" />
+</a>
+<a href="https://visionv-studios.tebex.io">
+  <img src="https://img.shields.io/badge/VisionV_Studios-111111?style=for-the-badge&logo=shopify&logoColor=E2C56B" alt="VisionV Studios" />
+</a>
+<a href="https://www.tntracing.es">
+  <img src="https://img.shields.io/badge/TNT_Racing-111111?style=for-the-badge&logo=googlechrome&logoColor=C9982F" alt="TNT Racing" />
+</a>
 
-  Me interesa conectar con personas que valoren un producto bien construido, una buena interfaz y una colaboración clara.
+</div>
 
-  <br/>
+---
 
-  <a href="https://github.com/Byl0ke"><img src="https://img.shields.io/badge/GITHUB-VER%20PERFIL-161B2D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Perfil de GitHub" /></a>
-  <a href="https://www.youtube.com/@Byl0ke"><img src="https://img.shields.io/badge/YOUTUBE-MI%20CONTENIDO-E52243?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
-  <a href="https://visionv-studios.tebex.io"><img src="https://img.shields.io/badge/VISIONV-STUDIOS-7454D8?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="VisionV Studios" /></a>
+# 🏛️ En evolución
 
-  <br/><br/>
+```txt
+→ webs más elegantes
+→ mejor presencia de marca
+→ interfaces más limpias
+→ más animaciones premium
+→ proyectos más serios y profesionales
+→ más funciones útiles y mejor estructura
+→ una identidad visual negro + dorado más fuerte
+```
 
-  <sub>Diseño · Desarrollo · Automatización · Mejora continua</sub>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Byl0ke&style=for-the-badge&color=C9982F&labelColor=050505&label=Visitas+al+perfil" alt="Profile views" />
+</div>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:40D4ED,50:7454D8,100:0D1325&amp;height=95&amp;section=footer" width="100%" alt="Separador de cierre con degradado" />
-
-  <sub>Built with curiosity · BYL0KE</sub>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:111111,60:8f6a1d,80:c9982f,100:f0d37a&height=120&section=footer" width="100%" alt="Footer negro y dorado" />
+  <sub><strong>BYL0KE</strong> — desarrollo, elegancia y presencia digital con una identidad más seria, premium y profesional.</sub>
 </div>
