@@ -17,8 +17,8 @@
   <a href="#perfil-profesional">Perfil</a> ·
   <a href="#servicios">Servicios</a> ·
   <a href="#portfolio-digital">Portfolio</a> ·
-  <a href="#tecnologias">Tecnologías</a> ·
-  <a href="#metodologia">Metodología</a> ·
+  <a href="#tecnologías">Tecnologías</a> ·
+  <a href="#metodología">Metodología</a> ·
   <a href="#actividad-en-github">Actividad</a> ·
   <a href="#contacto">Contacto</a>
 </div>
