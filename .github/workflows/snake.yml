@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: Byl0ke
           outputs: |
-            dist/github-snake.svg?color_snake=%238e65ff&color_dots=%23edf0fa,%23d8c5ff,%23ac89f5,%237861df,%233ad0e9
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2340d4ed&color_dots=%23101527,%23302457,%23513e8f,%2338bbdd
+            dist/github-snake.svg?color_snake=%23b99145&color_dots=%23f4f1e8,%23ecdcb5,%23d9bb78,%23b8944c,%23816029
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23F0D28A&color_dots=%230c0d0e,%2327211a,%2354462a,%238b6b34,%23D9B567
 
       - name: Publish generated animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
