@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 74" role="img" aria-labelledby="t d">
+<title id="t">Executive golden divider</title><desc id="d">Minimalist black-and-gold fine-line divider.</desc>
+<defs><linearGradient id="g"><stop stop-color="#8A662C" stop-opacity="0"/><stop offset=".25" stop-color="#9C7636"/><stop offset=".5" stop-color="#F1D58F"/><stop offset=".75" stop-color="#9C7636"/><stop offset="1" stop-color="#8A662C" stop-opacity="0"/></linearGradient></defs>
+<rect width="1400" height="74" rx="9" fill="#08090A"/><path d="M65 36 H620 M780 36 H1335" stroke="url(#g)" stroke-width="1.5"/><path d="M700 17 L720 37 L700 57 L680 37 Z" fill="none" stroke="#D9B365" stroke-width="2"/><circle cx="700" cy="37" r="4" fill="#EFD186"><animate attributeName="opacity" values=".55;1;.55" dur="4s" repeatCount="indefinite"/></circle><rect x="1" y="1" width="1398" height="72" rx="9" fill="none" stroke="#5F4B28" stroke-opacity=".24"/>
+</svg>
